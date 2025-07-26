@@ -40,11 +40,3 @@ Flag | Description
 | <img src="img/torus2.png" alt="torus" width="300"/>  | <img src="img/cube0.png" alt="torus pointy" width="300"/>
 |:---:|:---:|
 | Torus without external faces  | Cube
-
-
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
